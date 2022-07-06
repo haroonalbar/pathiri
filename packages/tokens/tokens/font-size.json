@@ -3,7 +3,7 @@
     "size": {
       "75": {
         "sets": {
-          "mobile": { "value": "15px" },
+          "mobile": { "value": "16px" },
           "desktop": { "value": "12px" }
         }
       },

@@ -22,11 +22,9 @@ custom-elements.json
 packages/*/src/**/*.css.js
 packages/*/custom-elements.json
 packages/**/*.js
-packages/**/spectrum-vars.json
 packages/**/*.js.map
 packages/**/*.d.ts
 packages/**/*.test-vrt.ts
-!packages/**/*/spectrum-config.js
 !packages/*/test/global.d.ts
 !packages/*/global.d.ts
 !packages/*/local.d.ts

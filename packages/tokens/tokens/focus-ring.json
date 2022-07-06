@@ -1,0 +1,6 @@
+{
+  "focus-ring": {
+    "gap": { "value": "2px" },
+    "thickness": { "value": "2px" }
+  }
+}

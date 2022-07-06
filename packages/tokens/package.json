@@ -1,0 +1,26 @@
+{
+  "name": "@pathiri/tokens",
+  "version": "0.1.0",
+  "description": "Pathiri Tokens",
+  "author": "Muneef Hameed <hey@muneef.in>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "config.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "style-dictionary build",
+    "clean": "rm -rf dist",
+    "pre-commit": "lint-staged"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.0",
+    "@commitlint/config-conventional": "^16.2.1",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.4",
+    "prettier": "^2.5.1",
+    "style-dictionary": "^3.7.0",
+    "style-dictionary-sets": "^1.0.5"
+  }
+}

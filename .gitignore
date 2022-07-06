@@ -67,4 +67,4 @@ test/visual/test.js
 # npm assets
 node_modules
 npm-debug.log
-package-lock.json
+# package-lock.json

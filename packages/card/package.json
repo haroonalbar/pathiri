@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/wraft/pathiri/issues"
+  },
+  "dependencies": {
+    "lit-element": "^3.2.1"
   }
 }

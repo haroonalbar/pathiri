@@ -1,5 +1,10 @@
 {
   "colors": {
+    "red": {
+      "base": {
+        "value": "red"
+      }
+    },
     "primary": {
       "normal": {
         "value": "#005EA6"

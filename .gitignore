@@ -25,6 +25,7 @@ packages/**/*.js
 packages/**/*.js.map
 packages/**/*.d.ts
 packages/**/*.test-vrt.ts
+packages/**/.cache/
 !packages/*/test/global.d.ts
 !packages/*/global.d.ts
 !packages/*/local.d.ts

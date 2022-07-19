@@ -1,7 +1,16 @@
 {
   "name": "root",
-  "private": false,
+  "private": true,
   "devDependencies": {
+    "@pathiri/tokens": "0.1.4",
     "lerna": "^5.1.6"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "docs": "yarn workspace @pathiri/docs serve",
+    "docs:start": "yarn workspace @pathiri/docs start",    
+    "docs:build": "yarn workspace @pathiri/docs build"
   }
 }

@@ -1,0 +1,85 @@
+{
+  "Untitled": {
+    "description": "Color theme tokens at lightness of 100%",
+    "Gray100": {
+      "value": "#d6d6d6",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.45:1 against background #ffffff"
+    },
+    "Gray200": {
+      "value": "#b5b5b5",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 2.05:1 against background #ffffff"
+    },
+    "Gray300": {
+      "value": "#959595",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "Gray400": {
+      "value": "#767676",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 4.54:1 against background #ffffff"
+    },
+    "Gray500": {
+      "value": "#595959",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 7:1 against background #ffffff"
+    },
+    "Gray600": {
+      "value": "#3d3d3d",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 10.86:1 against background #ffffff"
+    },
+    "Gray700": {
+      "value": "#373737",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 11.86:1 against background #ffffff"
+    },
+    "Gray800": {
+      "value": "#323232",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12.86:1 against background #ffffff"
+    },
+    "Primary100": {
+      "value": "#cfd7de",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 1.45:1 against background #ffffff"
+    },
+    "Primary200": {
+      "value": "#a9b6c4",
+      "type": "color",
+      "description": "Do not use for UI elements or text. Contrast is 2.05:1 against background #ffffff"
+    },
+    "Primary300": {
+      "value": "#8497aa",
+      "type": "color",
+      "description": "Color can be used for UI elements or large text. Contrast is 3:1 against background #ffffff"
+    },
+    "Primary400": {
+      "value": "#607891",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 4.54:1 against background #ffffff"
+    },
+    "Primary500": {
+      "value": "#3e5b79",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 7:1 against background #ffffff"
+    },
+    "Primary600": {
+      "value": "#1c3f61",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 10.86:1 against background #ffffff"
+    },
+    "Primary700": {
+      "value": "#15385c",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 11.86:1 against background #ffffff"
+    },
+    "Primary800": {
+      "value": "#0e3358",
+      "type": "color",
+      "description": "Color can be used for small text. Contrast is 12.86:1 against background #ffffff"
+    }
+  }
+}

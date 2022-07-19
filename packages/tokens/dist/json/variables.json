@@ -80,5 +80,55 @@
         "value": "#820B0B"
       }
     }
+  },
+  "Untitled": {
+    "Gray100": {
+      "value": "#d6d6d6"
+    },
+    "Gray200": {
+      "value": "#b5b5b5"
+    },
+    "Gray300": {
+      "value": "#959595"
+    },
+    "Gray400": {
+      "value": "#767676"
+    },
+    "Gray500": {
+      "value": "#595959"
+    },
+    "Gray600": {
+      "value": "#3d3d3d"
+    },
+    "Gray700": {
+      "value": "#373737"
+    },
+    "Gray800": {
+      "value": "#323232"
+    },
+    "Primary100": {
+      "value": "#cfd7de"
+    },
+    "Primary200": {
+      "value": "#a9b6c4"
+    },
+    "Primary300": {
+      "value": "#8497aa"
+    },
+    "Primary400": {
+      "value": "#607891"
+    },
+    "Primary500": {
+      "value": "#3e5b79"
+    },
+    "Primary600": {
+      "value": "#1c3f61"
+    },
+    "Primary700": {
+      "value": "#15385c"
+    },
+    "Primary800": {
+      "value": "#0e3358"
+    }
   }
 }

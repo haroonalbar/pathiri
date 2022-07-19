@@ -1,13 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Tue, 19 Jul 2022 12:31:00 GMT
+ * Generated on Tue, 19 Jul 2022 17:14:03 GMT
  */
 
 :root {
+  --aq-colors-red-base: red;
   --aq-colors-primary-50: #005291;
   --aq-colors-primary-70: #002F53;
   --aq-colors-primary-normal: #005EA6;
-  --aq-colors-primary-a50: rgba(0, 94, 166, 0.5);
+  --aq-colors-primary-a50: rgba(0, 94, 166, 0.25);
   --aq-colors-primary-a10: rgba(0, 94, 166, 0.1);
   --aq-colors-status-success: #005EA6;
   --aq-colors-status-info: #42A3E5;

@@ -3811,6 +3811,11 @@
     chrome-trace-event "^1.0.2"
     nullthrows "^1.1.1"
 
+"@pathiri/tokens@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@pathiri/tokens/-/tokens-0.1.4.tgz#65d68a19848a1c17347276b72806e811d9632cb1"
+  integrity sha512-oTms5FH3ytOszV2BeQn637wc4NPXnrCrCXmDiqrGYdFmXjeK3Ks0GOF6QT4vAaihGqWOZKcS6ZBTQ/ZmTLikmA==
+
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz#1eec460596d200c0236bf195b078a5d1df89b766"

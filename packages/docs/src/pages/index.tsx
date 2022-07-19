@@ -6,8 +6,6 @@ import { css } from "@emotion/css";
 
 import * as Tokens from "@pathiri/tokens/dist/json/variables.json";
 
-import Sidebar from '../../src/sidebar.mdx'
-
 type IndexProps = {
   data: {
     site: {
@@ -69,8 +67,6 @@ export default function IndexPage(props: IndexProps): React.ReactElement {
         font-family: Avenir, sans-serif;
       `}
     >
-
-        <Sidebar/>
       <div>
         <h5>@pathiri</h5>
         v0.0.1

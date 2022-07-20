@@ -2,7 +2,9 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "storybook": "~6.4.22",
     "@pathiri/tokens": "0.1.4",
+    "@storybook/web-components": "^6.5.9",
     "lerna": "^5.1.6"
   },
   "workspaces": [
@@ -10,13 +12,16 @@
   ],
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook --output-dir ./docs",
-    "storybook:upgrade": "npx sb@next upgrade",
+    "build-storybook": "build-storybook",
     "bootstrap": "lerna bootstrap --hoist",
     "build": "lerna run --parallel --scope 'pf-*' build",
     "version": "lerna version --allow-branch master --conventional-commits --yes",
     "publish": "lerna publish from-package --yes",
     "diff": "lerna diff",
     "lerna:upgrade": "lerna init"
+  },
+  "dependencies": {
+    "lit": "^2.2.7",
+    "lit-html": "^2.2.6"
   }
 }

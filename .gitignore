@@ -12,6 +12,7 @@ tach-results.*
 .gitconfig
 .netlify/plugins
 
+storybook-static/
 # dependency folders
 coverage
 lib

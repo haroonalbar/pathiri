@@ -10,6 +10,7 @@
   "devDependencies": {
     "@pathiri/tokens": "0.1.4",
     "@storybook/addon-actions": "^6.5.9",
+    "@storybook/addon-docs": "^6.5.9",
     "@storybook/addon-essentials": "^6.5.9",
     "@storybook/addon-links": "^6.5.9",
     "@storybook/web-components": "^6.5.9",

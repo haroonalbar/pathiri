@@ -9,8 +9,13 @@
 }
 .storybook-button--primary {
   color: white;
-  background-color: #1ea7fd;
+  background-color: var(--aq-colors-primary-normal);
 }
+
+.storybook-button--primary:hover {
+  background-color: var(--aq-colors-primary-70);
+}
+
 .storybook-button--secondary {
   color: #333;
   background-color: transparent;

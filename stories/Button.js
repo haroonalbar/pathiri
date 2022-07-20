@@ -1,5 +1,7 @@
 import { html } from 'lit-html';
 import { styleMap } from 'lit-html/directives/style-map.js';
+
+import '@pathiri/tokens/dist/css/_variables.css';
 import './button.css';
 
 /**

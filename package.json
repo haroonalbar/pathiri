@@ -1,11 +1,20 @@
 {
   "name": "root",
   "private": true,
+  "dependencies": {
+    "@babel/core": "^7.18.9",
+    "lit": "^2.2.7",
+    "lit-html": "^2.2.6"
+  },
   "devDependencies": {
-    "storybook": "~6.4.22",
     "@pathiri/tokens": "0.1.4",
+    "@storybook/addon-actions": "^6.5.9",
+    "@storybook/addon-essentials": "^6.5.9",
+    "@storybook/addon-links": "^6.5.9",
     "@storybook/web-components": "^6.5.9",
-    "lerna": "^5.1.6"
+    "babel-loader": "^8.2.5",
+    "lerna": "^5.1.8",
+    "storybook": "~6.4.22"
   },
   "workspaces": [
     "packages/*"
@@ -19,9 +28,5 @@
     "publish": "lerna publish from-package --yes",
     "diff": "lerna diff",
     "lerna:upgrade": "lerna init"
-  },
-  "dependencies": {
-    "lit": "^2.2.7",
-    "lit-html": "^2.2.6"
   }
 }

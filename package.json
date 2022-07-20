@@ -1,6 +1,7 @@
 {
   "name": "root",
   "private": true,
+  "version": "0.1.9",
   "dependencies": {
     "@babel/core": "^7.18.9",
     "lit": "^2.2.7",

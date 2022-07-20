@@ -25,7 +25,6 @@
     "bootstrap": "lerna bootstrap --hoist",
     "build": "lerna run --parallel --scope 'pf-*' build",
     "version": "lerna version --allow-branch master --conventional-commits --yes",
-    "publish": "lerna publish from-package --yes",
     "diff": "lerna diff",
     "lerna:upgrade": "lerna init"
   }
